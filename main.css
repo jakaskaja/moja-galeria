@@ -1,0 +1,30 @@
+body {
+background-color:#CC99CC
+}
+h1 {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    color: #660033;
+    font-size: 48px;
+}
+p {
+    font-style: oblique;
+    font-family: Clear Sans;
+    color:black;
+}
+div#photos {
+    background-color: #993366;
+    height: 200px;
+}
+div#photos img {
+    border: 2px solid purple;
+}
+footer {
+    background-color: #993366;
+    height: 100px;
+}
+footer p {
+    color: #330033;
+    font-size: 18px;
+    font-style: Impact;
+    font-family: fantasy;
+}
